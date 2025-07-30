@@ -7,7 +7,7 @@
     <Description>服务器数据(CPU,内存,磁盘,网络等)数据采集类库</Description>
     <PackageReleaseNotes>补充网络使用情况</PackageReleaseNotes>
     <Version>1.1.2</Version>
-	  <RepositoryUrl>https://github.com/wumiao55/Module.OSMetrics</RepositoryUrl>
+    <RepositoryUrl>https://github.com/wumiao55/Module.OSMetrics</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
